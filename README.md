@@ -1,4 +1,5 @@
 # Adidas Landing Page | Responsive Web Design
+### 🔗 [Live Demo](https://habibaesamm.github.io/Adidas-Landing-Page/)
 
 A modern, high-performance **Landing Page** for Adidas, built with a focus on clean UI/UX, responsiveness, and advanced CSS techniques. 
 This project demonstrates the ability to translate brand identity into a functional, interactive web experience.
@@ -24,6 +25,7 @@ The goal was to create a fluid user experience that maintains its visual integri
 
 Connect with me:
 [LinkedIn](https://www.linkedin.com/in/habiba-essam-2050a33a0) | [GitHub](https://github.com/habibaesamm)
+
 
 
 
