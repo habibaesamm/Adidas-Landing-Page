@@ -22,8 +22,8 @@ The goal was to create a fluid user experience that maintains its visual integri
 * **CSS3:** Custom styling, Flexbox, and Media Queries.
 * **Google Fonts:** Typography integration.
 
-## 🔗 Connect with Me
+Connect with me:
+[LinkedIn](https://www.linkedin.com/in/habiba-essam-2050a33a0) | [GitHub](https://github.com/habibaesamm)
 
-- **LinkedIn:** [https://www.linkedin.com/in/habiba-essam-2050a33a0]
-*Developed by Habiba Essam | 2026*
+
 
