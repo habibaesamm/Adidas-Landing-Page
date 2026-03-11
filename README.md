@@ -24,5 +24,6 @@ The goal was to create a fluid user experience that maintains its visual integri
 
 ## 🔗 Connect with Me
 
-- **LinkedIn:** [https://www.linkedin.com/in/habiba-essam-2050a33a0?lipi=urn%3Ali%3Apage%3Ad_flagship3_messaging_conversation_detail%3BINVHDPZaQLOJNiunv2MhQA%3D%3D]
+- **LinkedIn:** [https://www.linkedin.com/in/habiba-essam-2050a33a0]
 *Developed by Habiba Essam | 2026*
+
